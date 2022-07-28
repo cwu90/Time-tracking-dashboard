@@ -189,7 +189,7 @@ h1 {
     padding-block: 1rem;
   }
   .periodical p {
-    margin-inline: 1.5rem;
+   margin-inline: auto;
   }
   .last-week {
     grid-row-start: 2;
